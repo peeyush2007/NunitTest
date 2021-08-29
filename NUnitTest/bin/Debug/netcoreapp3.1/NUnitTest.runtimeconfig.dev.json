@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\aggar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\aggar\\.nuget\\packages"
+    ]
+  }
+}
